@@ -1,0 +1,12 @@
+#Review JavaScript data types
+
+## Primitive data types 
+- Strings
+-Numbers
+-Booleans
+- Null
+- Undefined 
+
+## Data structures
+- Arrays
+- Objects
